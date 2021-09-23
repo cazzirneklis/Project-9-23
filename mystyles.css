@@ -2,3 +2,12 @@ h1 {
 	color: #453994; 
 	font-size: 4em;
 }
+
+.container {max-width: 500px;margin: 0 auto;}
+
+.images {
+	display: block; 
+	margin:0 auto
+}
+.text {text-transform: uppercase;}
+.zoo {color:  blue;}
